@@ -1,0 +1,6 @@
+{
+  "API.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Red Efectiva\\API\\src\\API.Core",
+  "API.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Red Efectiva\\API\\src\\API.Infrastructure",
+  "API.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Red Efectiva\\API\\src\\API.SharedKernel",
+  "API.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Red Efectiva\\API\\tests\\API.UnitTests"
+}

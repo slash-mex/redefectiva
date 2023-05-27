@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHm4mu3/hHUT7Suh4ZuCv5e39XD+0ZHOJctofeJst6BUMsUhNMjtPlb3PnAKAG5ytTHkvBgIpxeo9TMNxgqtOg==",
+  "success": true,
+  "projectFilePath": "E:\\Red Efectiva\\API\\src\\API.Core\\API.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Imper\\.nuget\\packages\\ardalis.guardclauses\\4.0.1\\ardalis.guardclauses.4.0.1.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\ardalis.result\\7.0.0\\ardalis.result.7.0.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\ardalis.smartenum\\7.0.0\\ardalis.smartenum.7.0.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Imper\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

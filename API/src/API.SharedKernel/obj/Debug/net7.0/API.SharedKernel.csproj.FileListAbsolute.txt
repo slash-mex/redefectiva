@@ -1,0 +1,12 @@
+E:\Red Efectiva\API\src\API.SharedKernel\bin\Debug\net7.0\API.SharedKernel.deps.json
+E:\Red Efectiva\API\src\API.SharedKernel\bin\Debug\net7.0\API.SharedKernel.dll
+E:\Red Efectiva\API\src\API.SharedKernel\bin\Debug\net7.0\API.SharedKernel.pdb
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.csproj.AssemblyReference.cache
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.AssemblyInfoInputs.cache
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.AssemblyInfo.cs
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.csproj.CoreCompileInputs.cache
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.dll
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\refint\API.SharedKernel.dll
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\API.SharedKernel.pdb
+E:\Red Efectiva\API\src\API.SharedKernel\obj\Debug\net7.0\ref\API.SharedKernel.dll
